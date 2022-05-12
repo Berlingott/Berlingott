@@ -8,7 +8,7 @@
 
 <h1 align="center">
   
-  ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=specterale&count=3)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=specterale&width=495)
   
 </h1>
 <!--
