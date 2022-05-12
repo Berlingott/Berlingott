@@ -1,6 +1,10 @@
+### B'jour! :monocle_face:
 
+<p align="center">
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berlingott)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berlingott)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+
 
 
