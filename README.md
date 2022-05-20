@@ -14,5 +14,5 @@
 <!--
 Source 
 github stats: https://github.com/anuraghazra/github-readme-stats#github-stats-card
-Spotify recently played: https://github.com/JeffreyCA/spotify-recently-played-readme
+Spotify recently played: https://github.com/JeffreyCA/spotify-recently-played-readme 
 -->
