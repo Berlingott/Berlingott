@@ -16,3 +16,6 @@ Source
 github stats: https://github.com/anuraghazra/github-readme-stats#github-stats-card
 Spotify recently played: https://github.com/JeffreyCA/spotify-recently-played-readme 
 -->
+<h1 align="center">
+ <script src="https://tryhackme.com/badge/1220262"></script>
+ </h1>
