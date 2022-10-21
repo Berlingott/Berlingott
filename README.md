@@ -12,8 +12,7 @@
   
   
 
-      <script src="https://tryhackme.com/badge/1220262"></script>
-
+ <img src="https://tryhackme-badges.s3.amazonaws.com/berlingot.png" alt="TryHackMe">
 <!--
 Source 
 github stats: https://github.com/anuraghazra/github-readme-stats#github-stats-card
