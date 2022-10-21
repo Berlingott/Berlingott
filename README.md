@@ -13,7 +13,7 @@
   
 </h1>
 <h1 align="center">
-     <img src="https://tryhackme-badges.s3.amazonaws.com/berlingot.png" alt="TryHackMe">
+      <script src="https://tryhackme.com/badge/1220262"></script>
 </h1>
 <!--
 Source 
