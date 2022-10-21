@@ -11,10 +11,9 @@
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=specterale&width=495)
   
   
-</h1>
-<h1 align="center">
+
       <script src="https://tryhackme.com/badge/1220262"></script>
-</h1>
+
 <!--
 Source 
 github stats: https://github.com/anuraghazra/github-readme-stats#github-stats-card
