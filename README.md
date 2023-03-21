@@ -8,8 +8,7 @@
 
 <h1 align="center">
   
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=specterale&width=495)
-  
+![Last Played](https://spotify-recently-played-readme.vercel.app/api?user=specterale)  
   
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/berlingot.png" alt="TryHackMe">
