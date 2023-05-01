@@ -13,7 +13,7 @@
 
  <img src="https://tryhackme-badges.s3.amazonaws.com/berlingot.png" alt="TryHackMe">
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Berlingott)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 Source 
 github stats: https://github.com/anuraghazra/github-readme-stats#github-stats-card
