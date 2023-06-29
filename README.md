@@ -1,10 +1,6 @@
 ### B'jour! :monocle_face:
 
-<h1 align="center">
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Berlingott&show_icons=true&theme=radical&title_color=0feec5&icon_color=0feec5&text_color=f208bb)
 
-</h1>
 
 <h1 align="center">
   
